@@ -24,6 +24,12 @@ Design and Develop Modern Ecommerce Plafform
 #### Step 6 : Bring up the Install WordPress page by pressing localhost/folder name/press enter, you will be prompted to fill in information.
 #### Step 7: Login into WordPress and you're done.
 
+### Visual Paradigm Visual Paradigm is a leading and globally recognized provider for Business and IT Transformation software solutions. It enables organizations to improve business and IT agility and foster innovation through popular open standards. Our award-winning products are trusted by over 320,000 users in companies ranging from small business, consultants, to blue chip organizations, universities and government units across the globe. About Visual Paradigm Visual Paradigm.
+
+### First, we log into Wordpress. After that, it will come up at the back of the house for us to choose. But it didn't have much in it. Basically, whatever we want to do, we have to download it ourselves in Wordpress. After that, the first thing we have to do is create our website. in making website pages
+### Wordpress gives us two options: 1. Design the website page yourself. 2. If you want to focus on convenience and speed, find a ready-made theme and edit it to make it your own. And I chose the second option, which was to find a theme to use, which I used the theme of LaVenta version 1.2 by Catch Themes for his website page. But his theme is a diamond selling website. Which will be similar to what we will use to make a website selling watches. We chose to customize the website and change the image. Change information It comes like a watch sales website. Next is we will add a plug-in. So what is a plug-in? Plugins are extensions to Wordpress in the form of scripts that improve performance. and expand the ability to make a normal website into a perfect website
+
+
 
 ![Digram img](img/CasioGSHOCKAdventureStone-opn.jpg)
 
