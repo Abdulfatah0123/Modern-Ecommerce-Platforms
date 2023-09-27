@@ -35,8 +35,7 @@ Design and Develop Modern Ecommerce Plafform
   
 # Website overview
 ### HomePage
-
-![Digram img](img/CasioGSHOCKAdventureStone-opn.jpg)
-
-
+![Digram img](img/111.png)
+![Digram img](img/222.png)
+![Digram img](img/333.png)
 - ยังไม่ทำครับ
