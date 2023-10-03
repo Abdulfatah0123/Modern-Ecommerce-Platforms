@@ -57,3 +57,6 @@ If the customer is satisfied with the selected product They will go through the 
 - Payment Process: There are 2 methods to choose from. The first method is cash on delivery. The second method is a bank transfer. Customers can pay at their convenience. (Destination or bank transfer) for bank transfer Customers can send proof of transfer right away. We will have a place to send evidence to you. If the customer pays on delivery, the customer waits to pay when the driver comes to deliver the product.
 
 ![Digram img](img/confirm.png)
+
+# Website pool
+![Digram img](img/Website.png)
