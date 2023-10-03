@@ -45,3 +45,5 @@ This BPMN diagram shows my ecommerce website process. It showcases key interacti
 - Start with the green dot. It marks the beginning of the customer journey on the platform.
 - Select Products: The customer selects the desired products from the available options.
 ![Digram img](img/pro.png) 
+- Add product to cart: After selecting the product step The customer checks in to the cart. If the customer is satisfied with the selected product They will go through the payment process. If the customer still hesitates in choosing a product, the customer can cancel the product or go back and select it again.
+![Digram img](img/cart.png)   
