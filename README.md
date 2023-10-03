@@ -31,7 +31,7 @@ First, we log into Wordpress. After that, it will come up at the back of the hou
 
 
 # BPMN Diagram
-![Digram img](img/555.png)
+![Digram img](img/666.png)
 
 
 
