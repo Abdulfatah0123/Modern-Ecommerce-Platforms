@@ -50,6 +50,5 @@ If the customer is satisfied with the selected product They will go through the 
 
 ![Digram img](img/cart.png) 
 - Checkout Process: The process to Checkout the product. (The customer fill their shipping detail.)
-
 - **Fill the shipping detail** : The customer fill their shipping detail.
 ![Digram img](img/checkout.png) 
