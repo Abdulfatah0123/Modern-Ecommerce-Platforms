@@ -17,7 +17,7 @@ First, we log into Wordpress. After that, it will come up at the back of the hou
 - Woocommerce What is Woocommerce and what are its advantages? It is a plugin that can turn a simple WordPress website into an e-commerce website in just a few clicks. With a variety of abilities Sell many types of products Whether it is an ordinary product that can be tangible Digital file type products. WooCommerce can do everything a basic e-commerce website should have, such as a membership system, payments, shipping, warehouse management, and sales reporting system. and many other subsystems.
 - WooCommerce PDF Invoices & Packing Slips Thai Language Pack (Adds Thai font (Norasi) to WooCommerce PDF Invoices & Packing Slips)
 - PDF Invoices & Packing Slips for WooCommerce It will be a plugin to add a PDF invoice to send along with the order confirmation email that will be sent to the customer. Comes with templates and can also customize the appearance or create our own templates.
-
+- PeproDev WooCommerce Receipt Uploader Upload Receipt for Any Payment method in WooCommerce. Customers will Upload the receipt (image/pdf) and Shop Managers will approve/reject it manually.
   
 # Website overview
 ### HomePage
@@ -31,3 +31,7 @@ First, we log into Wordpress. After that, it will come up at the back of the hou
 
 
 # BPMN Diagram
+![Digram img](img/555.png)
+
+
+
