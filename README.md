@@ -53,4 +53,6 @@ If the customer is satisfied with the selected product They will go through the 
 - **Fill the shipping detail** : The customer fill their shipping detail.
 ![Digram img](img/checkout.png) 
 - Identify payment method: customer choose the payment method. In my wetsite have 2 ways are 2C2P, and Bank transfer.
-![Digram img](img/transfer.png) 
+![Digram img](img/transfer.png)
+- Payment Process: There are 2 methods to choose from. The first method is cash on delivery. The second method is a bank transfer. Customers can pay at their convenience. (Destination or bank transfer) for bank transfer Customers can send proof of transfer right away. We will have a place to send evidence to you. If the customer pays on delivery, the customer waits to pay when the driver comes to deliver the product.
+![Digram img](img/confirm.png)
