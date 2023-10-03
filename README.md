@@ -55,8 +55,22 @@ If the customer is satisfied with the selected product They will go through the 
 - Identify payment method: customer choose the payment method. In my wetsite have 2 ways are 2C2P, and Bank transfer.
 ![Digram img](img/transfer.png)
 - Payment Process: There are 2 methods to choose from. The first method is cash on delivery. The second method is a bank transfer. Customers can pay at their convenience. (Destination or bank transfer) for bank transfer Customers can send proof of transfer right away. We will have a place to send evidence to you. If the customer pays on delivery, the customer waits to pay when the driver comes to deliver the product.
-
 ![Digram img](img/confirm.png)
+
 
 # Website pool
 ![Digram img](img/Website.png)
+- Receive orders from customers in order to wipe customer slips.
+- Check slip and confirm order process: This process admin will check the slip of payment and confirm order. When checking the correctness of payment If correct, it will enter the stock checking process. If it is incorrect, the order will be canceled.
+- Stock checking process: Admin will check stock. If there is enough product, it will proceed to the next step. (Prepare orders for delivery)
+
+
+# Admin pool
+![Digram img](img/Admin.png)
+- The next step will be preparing the customer's order. Pack the product well so that it is not damaged during the delivery.
+- Customer order is ready to ship.
+- Next, the order will be sent to the shipping company.
+
+
+# Delivery pool 
+![Digram img](img/Delivery.png)
