@@ -32,7 +32,7 @@ First, we log into Wordpress. After that, it will come up at the back of the hou
 
 
 # BPMN Diagram
-![Digram img](img/666.png)
+![Digram img](img/4545.png)
 This BPMN diagram shows my ecommerce website process. It showcases key interactions and workflows that enhance the platform's user-friendly online JLingz shop experience.
 
 ### All Pools in BPMN
