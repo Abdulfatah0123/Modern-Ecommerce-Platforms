@@ -68,7 +68,7 @@ If the customer is satisfied with the selected product They will go through the 
 
 
 # Admin pool
-![Digram img](img/Admin.png)
+![Digram img](img/ad.png)
 - The next step will be preparing the customer's order. Pack the product well so that it is not damaged during the delivery.
 - Customer order is ready to ship.
 - Next, the order will be sent to the shipping company.
