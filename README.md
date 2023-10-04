@@ -75,7 +75,7 @@ If the customer is satisfied with the selected product They will go through the 
 
 
 # Delivery pool 
-![Digram img](img/Delivery.png)
+![Digram img](img/deli.png)
 - The shipping company receives orders from admins in order to deliver goods to customers.
 - Next, the parcel number will be sent to the admin in order for the admin to send the parcel number to his customers.
 - Next, the product will be sent to the customer in at least approximately 3 days (if we make payment on delivery, we can wait to pay for shipping).
