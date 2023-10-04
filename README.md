@@ -81,5 +81,5 @@ If the customer is satisfied with the selected product They will go through the 
 - Next, the product will be sent to the customer in at least approximately 3 days (if we make payment on delivery, we can wait to pay for shipping).
 
 
-#### Summary
+#### Conclution
 - JLingz  e-commerce website is a testament to the power of digital transformation in the world ofJLingz Shop. It combines the flexibility and user-friendly nature of WordPress and WooCommerce with careful customization and strategic plugin integration.
